@@ -10,7 +10,7 @@ Boxfuse Sample Hello World Java application packaged as a war file
 - Maven
 - VirtualBox
 - Boxfuse
-- aws
+- aws - batch 25
 
 ## Running
 
